@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d230e25"],{edd4:function(e){e.exports=JSON.parse('{"message":"hello i18n !!","msg":"English text","hello":"GLOBAL hello"}')}}]);
+//# sourceMappingURL=chunk-2d230e25-legacy.8e79063c.js.map

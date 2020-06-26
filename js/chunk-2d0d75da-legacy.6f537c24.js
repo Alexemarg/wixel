@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d75da"],{7704:function(e){e.exports=JSON.parse('{"message":"hello i18n !!","msg":"Текст на русском","hello":"ГЛОБАЛЬНЫЙ hello"}')}}]);
+//# sourceMappingURL=chunk-2d0d75da-legacy.6f537c24.js.map

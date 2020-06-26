@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["s"],{"2e31":function(n,e,l){"use strict";l.r(e);var s,u,o=l("2877"),p={},t=Object(o["a"])(p,s,u,!1,null,null,null);e["default"]=t.exports}}]);
+//# sourceMappingURL=s-legacy.f9d9c14e.js.map
